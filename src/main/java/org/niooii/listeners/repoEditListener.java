@@ -113,12 +113,6 @@ public class repoEditListener extends ListenerAdapter {
             return;
         }
 
-        if(sudoUser.getRepoEditName() == null){
-            EmbedBuilder embed = formatEmbed("No repository set.", "Set a repository using /set.", Color.RED ,"");
-            event.replyEmbeds(embed.build()).queue();
-            return;
-        }
-
         try {
             repoName = sudoUser.getRepoEditName();
             repo = gitUser.getRepository(repoName);
@@ -127,6 +121,11 @@ public class repoEditListener extends ListenerAdapter {
         }
 
         if(event.getName().equals("sudo")){
+            if(sudoUser.getRepoEditName() == null){
+                EmbedBuilder embed = formatEmbed("No repository set.", "Set a repository using /set.", Color.RED ,"");
+                event.replyEmbeds(embed.build()).queue();
+                return;
+            }
             event.deferReply().queue();
             if(sudoUser.isRepoEditMode()){
                 EmbedBuilder embed = formatEmbed("Something went wrong...", "You are already in sudo mode.", Color.RED, "");

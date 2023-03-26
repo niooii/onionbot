@@ -23,7 +23,7 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        JDA bot = JDABuilder.createDefault("token", GatewayIntent.GUILD_MESSAGES,
+        JDA bot = JDABuilder.createDefault("MTA4NzEwNTg3ODMyMDIzNDU1Nw.GSsyrj.4ZvgBAqoWQ2F4zrObtRBTZpSF4qg0j54ShPkZo", GatewayIntent.GUILD_MESSAGES,
                         GatewayIntent.MESSAGE_CONTENT,
                         GatewayIntent.GUILD_MEMBERS,
                         GatewayIntent.GUILD_VOICE_STATES,
