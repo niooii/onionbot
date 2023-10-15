@@ -11,8 +11,12 @@ Discord bot for random productivity stuff. *(the chromedriver is outdated, updat
 **Jupiter:**
 <br>
 ![image](https://github.com/niooii/onionbot/assets/121910815/3d842b26-96a1-4406-a62b-53c316bde749)
+<br>
+
+![image](https://github.com/niooii/onionbot/assets/121910815/db055e57-28ff-4abe-a9c1-6d5724a6d551)
 
 <br>
+
 **Git stuff:**
 <br>
 
