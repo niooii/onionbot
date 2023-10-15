@@ -1,12 +1,12 @@
 # onionbot
 Discord bot for random productivity stuff. *(the chromedriver is outdated, update it if you wanna run it for some reason)*
 
-# usages
+# Usages
 - git interface (link account with personal access token)
 - jupitered grades and course fetching (link account w/ osis and password *bronx science only for now*)
 - to-do list interface (linked to jupiter "account")
 
-**Example commands:**
+# Example commands
 <br>
 **Jupiter:**
 <br>
