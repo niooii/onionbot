@@ -8,6 +8,7 @@ Discord bot for random productivity stuff. *(the chromedriver is outdated, updat
 
 # Example commands
 <br>
+
 **Jupiter:**
 <br>
 ![image](https://github.com/niooii/onionbot/assets/121910815/3d842b26-96a1-4406-a62b-53c316bde749)
@@ -25,6 +26,7 @@ Discord bot for random productivity stuff. *(the chromedriver is outdated, updat
 
 ![image](https://github.com/niooii/onionbot/assets/121910815/18bbb0b7-857f-41f0-987b-e2a3da26f150)
 <br>
+
 **Task list:**
 <br>
 ![image](https://github.com/niooii/onionbot/assets/121910815/f0c53429-38f7-42cf-b47c-0a839fa36a7d)
