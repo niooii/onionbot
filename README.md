@@ -14,8 +14,10 @@ Discord bot for random productivity stuff. *(the chromedriver is outdated, updat
 <br>
 **Git stuff:**
 <br>
+
 ![image](https://github.com/niooii/onionbot/assets/121910815/2e085d95-46f6-4c23-8f93-f0b5c6bd9a31)
 <br>
+
 ![image](https://github.com/niooii/onionbot/assets/121910815/18bbb0b7-857f-41f0-987b-e2a3da26f150)
 
 **Task list:**
